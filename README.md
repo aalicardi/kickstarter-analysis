@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends
 ## Overview of Project
 
-Louise, a playwright, acquired our help to raise money for her upcoming play, Fever. Using Excel, we parsed through a large dataset of crowdfunding data to determine what factors if any should be considered in planning her campaign. By analyzing this dataset and looking at how other crowdfunding campaigns performed, we were able to help Louise have a successful campaign. However, Louise is now interested in whether two other factors affect theater campaign performs: launch date and funding goal.
+Louise, a playwright, acquired our help to raise money for her upcoming play, Fever. Using Excel, we parsed through a large dataset of crowdfunding data to determine what factors if any should be considered in planning her campaign. By analyzing this dataset and looking at how other crowdfunding campaigns performed, we were able to help Louise have a successful campaign. However, Louise is now interested in whether two other factors affect the performance of theater campaign: launch date and funding goal.
 
 ### Purpose
 
