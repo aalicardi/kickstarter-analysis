@@ -14,7 +14,7 @@ The purpose of this project is to provide Louise with data on how launch dates a
 
 To determine the impact of launch date on performance, I first needed to create a new data column. This column is labeled **Years** and the following function was used to extrapolate the year from the **Date Created Conversion** : =year(). One challenged that I initially faced when attempting to apply this function to the dataset is that some campaigns were missed. This was due to previous filters that I had not cleared. After clearing the prior filters, I tried the function again with success.
 
-Next, I created a pivot table that was placed in a new sheet title **Theater Outcomes by Launch Date.** This pivot table was filtered by *Parent Category* and *Years,* *Outcomes* was placed in columns and *Date Created Conversion* was place in rows. It is important to note that excel automatically adds *Years2* and *Quarters* to rows when initially placing the date created conversion to rows; these need to be removed. The final PivotTable Fields looks as follows:
+Next, I created a pivot table that was placed in a new sheet titled **Theater Outcomes by Launch Date.** This pivot table was filtered by *Parent Category* and *Years,* *Outcomes* was placed in columns and *Date Created Conversion* was place in rows. It is important to note that excel automatically adds *Years2* and *Quarters* to rows when initially placing the date created conversion to rows; these need to be removed. The final PivotTable Fields looks as follows:
 
 ![image](https://user-images.githubusercontent.com/105028515/172935301-1cca7e59-7afc-4241-b262-d12f84a84710.png)
 
